@@ -3,7 +3,7 @@ Nama Kelompok :
 Adella Putri Ayu (K3523002)
 Ardita Putri Cahyania (K3523018)
 
-# Sistem Reservasi Akomodasi Hotel Delitha
+## Sistem Reservasi Akomodasi Hotel Delitha
 
 Aplikasi web berbasis PHP Native untuk mengelola proses reservasi kamar hotel secara online.  
 Sistem ini mendukung peran **User** dan **Admin** dengan alur reservasi yang terstruktur.
